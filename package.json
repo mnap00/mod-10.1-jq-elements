@@ -1,6 +1,6 @@
 {
-  "name": "mod-10.1-js-elements",
-  "version": "0.1.0",
+  "name": "mod-10.2-js-elements",
+  "version": "0.2.0",
   "description": "jQuery elements",
   "main": "index.js",
   "scripts": {
@@ -22,15 +22,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mnap00/mod-10.1-js-elements.git"
+    "url": "git+https://github.com/mnap00/mod-10.2-js-elements.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/mnap00/mod-10.1-js-elements/issues"
+    "url": "https://github.com/mnap00/mod-10.2-js-elements/issues"
   },
-  "homepage": "https://github.com/mnap00/mod-10.1-js-elements#readme",
+  "homepage": "https://github.com/mnap00/mod-10.2-js-elements#readme",
   "devDependencies": {
     "autoprefixer-cli": "^1.0.0",
     "browser-sync": "^2.23.6",
